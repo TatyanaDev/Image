@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: lightgray;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  display: flex;
+  margin: 0;
+}
+
+.image {
+  border: 5px solid red;
+  max-width: 320px;
+}
